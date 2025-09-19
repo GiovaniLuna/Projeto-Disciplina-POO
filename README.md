@@ -18,4 +18,4 @@ Funcionalidades principais:
 
 
 ##### Colaboradores:
-###### [@ocaiosilv]((https://github.com/ocaiosilv))
+###### [@ocaiosilv](https://github.com/ocaiosilv)
