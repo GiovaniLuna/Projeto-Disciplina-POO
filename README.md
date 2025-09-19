@@ -7,7 +7,9 @@ python main.py
 ```
 Funcionalidades principais:
 
-- Cadastro de rotas
+- Cadastro de viagens
+
+- Manutenção de viagens
 
 - Venda de passagens
 
