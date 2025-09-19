@@ -1,0 +1,7 @@
+from .assento_ocupado_error import AssentoOcupadoError
+from .valor_invalido_error import ValorInvalidoError
+from .dados_invalidos_error import DadosPassageiroInvalidosError
+from .assento_invalido_error import AssentoInvalidoError
+from .viagem_nao_encontrada_error import ViagemNaoEncontradaError
+from .bilhete_nao_encontrado_error import BilheteNaoEncontradoError
+

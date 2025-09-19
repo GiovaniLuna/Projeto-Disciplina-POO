@@ -1,0 +1,2 @@
+class AssentoInvalidoError(Exception):
+    pass

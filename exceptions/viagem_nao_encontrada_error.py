@@ -1,0 +1,2 @@
+class ViagemNaoEncontradaError(Exception):
+    pass

@@ -1,0 +1,2 @@
+class AssentoOcupadoError(Exception):
+    pass

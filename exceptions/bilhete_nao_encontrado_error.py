@@ -1,0 +1,2 @@
+class BilheteNaoEncontradoError(Exception):
+    pass
